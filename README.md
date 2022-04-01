@@ -8,4 +8,6 @@ Module prestashop 1.7 add openseadragon zoom to product page
 ### add cron or back office module configuration run btn cron  
  cron used to create dzi and files openseadragon
  example :
-  *  ** .. curl https://domain_url/modules/openseadragon/Cron.php
+  * ** .. curl https://domain_url/modules/openseadragon/Cron.php
+## source api 
+   https://openseadragon.github.io/
