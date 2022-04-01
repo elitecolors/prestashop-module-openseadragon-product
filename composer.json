@@ -1,0 +1,20 @@
+{
+  "name": "prestashop/openseadragon",
+  "description": "PrestaShop module openseadragon",
+  "homepage": "https://github.com/PrestaShop/contactform",
+  "license": "AFL-3.0",
+  "authors": [
+    {
+      "name": "Saidani Ahmed",
+      "email": "saidaniahmed125@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "jeremytubbs/deepzoom": "^0.6.0"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}
